@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Did you know that `............` is valid Elixir syntax?"
+title:  "Did you know that "............" is valid Elixir syntax?"
 date:   2018-02-12 17:11:33 +0100
 categories: elixir
 ---
